@@ -1,0 +1,28 @@
+{
+    "instruments": [
+        {
+            "id": "i1",
+            "title": "Guitar",
+            "image": "/images/guitar.jpg",
+            "description": "My very first instrument!!"
+        },
+        {
+            "id": "i2",
+            "title": "Piano",
+            "image": "/images/piano.jpg",
+            "description": "My secondary instrument <3"
+        },
+        {
+            "id": "i3",
+            "title": "Violin",
+            "image": "/images/violin.jpg",
+            "description": "I wish I could play this more.."
+        },
+        {
+            "id": "i4",
+            "title": "Harmonica",
+            "image": "/images/harmonica.jpg",
+            "description": "Instrument for fun :)"
+        }
+    ]
+}
